@@ -3,7 +3,7 @@
 <suite name="Suite1" verbose="1">
     <test name="com,microdream">
         <classes>
-            <class name="com.microdream.PracticeAutomation"/>
+            <class name="com.microdream.PracticeAutomationTest"/>
         </classes>
     </test>
 
